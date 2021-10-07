@@ -1,5 +1,5 @@
-# 21Spring_ObjectOrientedDesign_TeamProject_EasyAnimator
-5004_OOD_drawboard_final_project
+# 5004Project
+5004_drawboard_final_project
 
 
 ## What is this project and how it works
